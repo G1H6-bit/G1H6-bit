@@ -43,20 +43,7 @@
 | ❌⭕ **XO Game** | Tic Tac Toe with score tracking and dark mode | HTML/CSS/JS | [Play →](https://g1h6-bit.github.io/XO-Game/XO.html) |
 | 📝 **Register Form** | 3-step form with real-time validation | HTML/CSS/JS | [View →](https://github.com/G1H6-bit/register-form-validation) |
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=G1H6-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4acfee&icon_color=a855f7&text_color=ffffff" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1H6-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4acfee&text_color=ffffff" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=G1H6-bit&theme=tokyonight&hide_border=true&background=0d1117&ring=4acfee&fire=a855f7&currStreakLabel=4acfee" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
