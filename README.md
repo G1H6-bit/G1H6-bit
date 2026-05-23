@@ -3,7 +3,7 @@
 
 <!-- typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4acfee&center=true&vCenter=true&width=500&lines=Frontend+Developer+Intern+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;CS+Student+%40+ECU+%F0%9F%8E%93;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4acfee&center=true&vCenter=true&width=550&lines=Frontend+Developer+Intern+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;CS+Student+%40+ECU+%F0%9F%8E%93;Cybersecurity+Projects+in+Python+%F0%9F%94%90;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -40,10 +40,24 @@
 | 🛡️ **AuthGuard Dashboard** | Role-based access control — 4 roles, 6 protected pages | React.js | [View →](https://github.com/G1H6-bit/auth-dashboard) |
 | 🧮 **Grade Calculator** | GPA tracker with semester filter and donut ring | React.js + Vite | [Live →](https://grade-calculator-react-ztpx.vercel.app) |
 | 🔐 **Password Checker** | Python GUI tool analyzing password strength | Python + Tkinter | [View →](https://github.com/G1H6-bit/password-checker) |
+| 🔒 **Caesar Cipher Tool** | Encrypt and decrypt text using classical cryptography | Python + Tkinter | [View →](https://github.com/G1H6-bit/caesar-cipher) |
 | ❌⭕ **XO Game** | Tic Tac Toe with score tracking and dark mode | HTML/CSS/JS | [Play →](https://g1h6-bit.github.io/XO-Game/XO.html) |
 | 📝 **Register Form** | 3-step form with real-time validation | HTML/CSS/JS | [View →](https://github.com/G1H6-bit/register-form-validation) |
 
+---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=G1H6-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4acfee&icon_color=a855f7&text_color=ffffff" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1H6-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4acfee&text_color=ffffff" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=G1H6-bit&theme=tokyonight&hide_border=true&background=0d1117&ring=4acfee&fire=a855f7&currStreakLabel=4acfee" />
+</p>
+
+---
 
 ## 📫 Connect With Me
 
