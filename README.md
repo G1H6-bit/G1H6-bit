@@ -118,27 +118,18 @@ Tic Tac Toe with win animations, score tracking, and dark/light mode
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=G1H6-bit&show_icons=true&theme=blood_dark&ring_color=cc0000&title_color=cc0000&icon_color=ff3333&border_color=660000&hide_border=true&bg_color=00000000&text_color=ffffff" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1H6-bit&layout=compact&theme=blood_dark&title_color=cc0000&border_color=660000&hide_border=true&bg_color=00000000&text_color=ffffff" height="170" />
-</div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=G1H6-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&text_color=ffffff" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1H6-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&text_color=ffffff" height="170" />
+<img src="https://github-profile-trophy.vercel.app/?username=G1H6-bit&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=4" width="100%" />
 
----
+<br/><br/>
 
-## 📫 Find Me
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=G1H6-bit&bg_color=0d1117&color=ff6b2b&line=7c1aed&point=ffffff&area=true&hide_border=true" width="100%" />
 
-<div align="center">
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23660000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-ashraf-39169035a/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23660000.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahmanashraf.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23660000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/G1H6-bit)
-[![Portfolio](https://img.shields.io/badge/Live%20Demo-%23660000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://grade-calculator-react-ztpx.vercel.app)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1H6-bit&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b2b&text_color=ffffff" height="200" />
 
 </div>
-
 <br/>
 
 <div align="center">
