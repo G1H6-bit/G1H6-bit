@@ -1,79 +1,146 @@
-<!-- animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4acfee,100:a855f7&height=200&section=header&text=Abdelrahman%20Ashraf&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=16" width="100%" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d0000,50:660000,100:cc0000&height=220&section=header&text=Abdelrahman%20Ashraf&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Python%20%7C%20React.js%20%7C%20Cybersecurity&descAlignY=58&descColor=eeeeee&animation=fadeIn" width="100%" />
 
-<!-- typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4acfee&center=true&vCenter=true&width=550&lines=Frontend+Developer+Intern+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;CS+Student+%40+ECU+%F0%9F%8E%93;Cybersecurity+Projects+in+Python+%F0%9F%94%90;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=cc0000&center=true&vCenter=true&width=560&lines=Cybersecurity+Projects+in+Python+%F0%9F%94%90;React.js+Developer+%F0%9F%92%BB;CS+Student+%40+ECU+%F0%9F%8E%93;Always+building+something+new+%F0%9F%9A%80;Open+to+Internship+Opportunities" alt="typing" />
 
 <br/>
 
-## 🧑‍💻 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=G1H6-bit&color=cc0000&style=flat-square&label=Profile+Views)
 
-- 🎓 Studying **Computer Science** at Egyptian Chinese University (2028)
-- 💼 Completed a **Frontend Internship** at BEDO Company (React.js)
-- 🔐 Passionate about **Cybersecurity** — Network Fundamentals + real projects
-- 🚀 Currently expanding into full-stack through **DEPI**
+</div>
+
+---
+
+## 🧑‍💻 Who Am I
+
+> *"I started with curiosity about how websites work — now I build them and break them (safely)."*
+
+- 🎓 CS student at **Egyptian Chinese University** — Class of 2028
+- 💼 Frontend Intern at **BEDO Company** — built real React.js UIs
+- 🔐 Cybersecurity projects: Password Checker · Caesar Cipher · Solo Security Lab
+- 🚀 Full-stack training via **DEPI** — expanding into backend
 - 📍 Cairo, Egypt
-- 📫 Reach me: **abdelrahmanashraf.dev@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech I Use
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
+
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JS](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev)
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-| Project | Description | Tech | Link |
-|---|---|---|---|
-| 🛡️ **AuthGuard Dashboard** | Role-based access control — 4 roles, 6 protected pages | React.js | [View →](https://github.com/G1H6-bit/auth-dashboard) |
-| 🧮 **Grade Calculator** | GPA tracker with semester filter and donut ring | React.js + Vite | [Live →](https://grade-calculator-react-ztpx.vercel.app) |
-| 🔐 **Password Checker** | Python GUI tool analyzing password strength | Python + Tkinter | [View →](https://github.com/G1H6-bit/password-checker) |
-| 🔒 **Caesar Cipher Tool** | Encrypt and decrypt text using classical cryptography | Python + Tkinter | [View →](https://github.com/G1H6-bit/caesar-cipher) |
-| ❌⭕ **XO Game** | Tic Tac Toe with score tracking and dark mode | HTML/CSS/JS | [Play →](https://g1h6-bit.github.io/XO-Game/XO.html) |
-| 📝 **Register Form** | 3-step form with real-time validation | HTML/CSS/JS | [View →](https://github.com/G1H6-bit/register-form-validation) |
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ AuthGuard Dashboard
+Role-based access control — 4 roles, 6 protected pages, live permissions matrix
+
+**React.js · Vite · RBAC**
+
+[View Code →](https://github.com/G1H6-bit/auth-dashboard)
+
+</td>
+<td width="50%">
+
+### 🧮 Grade Calculator
+GPA tracker with animated donut ring, semester filter, and academic standing
+
+**React.js · Vite**
+
+[Live Demo →](https://grade-calculator-react-ztpx.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔐 Password Checker
+Python GUI tool that checks password strength using real security rules
+
+**Python · Tkinter · Cybersecurity**
+
+[View Code →](https://github.com/G1H6-bit/password-checker)
+
+</td>
+<td width="50%">
+
+### 🔒 Caesar Cipher
+Encrypt and decrypt text using classical cryptography with a custom shift key
+
+**Python · Tkinter · Cryptography**
+
+[View Code →](https://github.com/G1H6-bit/caesar-cipher)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚡ Solo Security Lab
+Self-contained attack simulator — see real server logs without any risk
+
+**Python · Tkinter · Network Security**
+
+[View Code →](https://github.com/G1H6-bit/solo-security-lab)
+
+</td>
+<td width="50%">
+
+### ❌⭕ XO Game
+Tic Tac Toe with win animations, score tracking, and dark/light mode
+
+**HTML · CSS · JavaScript**
+
+[Play Now →](https://g1h6-bit.github.io/XO-Game/XO.html)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=G1H6-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4acfee&icon_color=a855f7&text_color=ffffff" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1H6-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4acfee&text_color=ffffff" height="165" />
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=G1H6-bit&show_icons=true&theme=blood_dark&ring_color=cc0000&title_color=cc0000&icon_color=ff3333&border_color=660000&hide_border=true&bg_color=00000000&text_color=ffffff" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1H6-bit&layout=compact&theme=blood_dark&title_color=cc0000&border_color=660000&hide_border=true&bg_color=00000000&text_color=ffffff" height="170" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=G1H6-bit&theme=tokyonight&hide_border=true&background=0d1117&ring=4acfee&fire=a855f7&currStreakLabel=4acfee" />
-</p>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=G1H6-bit&theme=blood_dark&ring=cc0000&fire=ff3333&currStreakLabel=cc0000&border=660000&hide_border=true&background=00000000&dates=ffffff&sideLabels=ffffff&sideNums=ffffff" />
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Find Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdelrahman-ashraf-39169035a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:abdelrahmanashraf.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://grade-calculator-react-ztpx.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-4acfee?style=for-the-badge&logo=vercel&logoColor=black" />
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23660000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-ashraf-39169035a/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23660000.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahmanashraf.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23660000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/G1H6-bit)
+[![Portfolio](https://img.shields.io/badge/Live%20Demo-%23660000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://grade-calculator-react-ztpx.vercel.app)
+
+</div>
 
 <br/>
 
-<!-- animated wave footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:4acfee&height=120&section=footer" width="100%" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:cc0000,50:660000,100:0d0000&height=120&section=footer&animation=fadeIn" width="100%" />
+</div>
