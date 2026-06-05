@@ -123,8 +123,8 @@ Tic Tac Toe with win animations, score tracking, and dark/light mode
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=G1H6-bit&theme=blood_dark&ring=cc0000&fire=ff3333&currStreakLabel=cc0000&border=660000&hide_border=true&background=00000000&dates=ffffff&sideLabels=ffffff&sideNums=ffffff" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=G1H6-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&text_color=ffffff" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1H6-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&text_color=ffffff" height="170" />
 
 ---
 
