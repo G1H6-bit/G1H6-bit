@@ -1,44 +1,40 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d0000,50:660000,100:cc0000&height=220&section=header&text=Abdelrahman%20Ashraf&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Python%20%7C%20React.js%20%7C%20Cybersecurity&descAlignY=58&descColor=eeeeee&animation=fadeIn" width="100%" />
+<!-- STAR BACKGROUND HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:3d0066,70:7c1aed,100:ff6b2b&height=240&section=header&text=Abdelrahman%20Ashraf&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=%F0%9F%94%90%20Cybersecurity%20%C2%B7%20%F0%9F%92%BB%20React.js%20%C2%B7%20%F0%9F%90%8D%20Python&descAlignY=57&descColor=ffccaa&animation=twinkling" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=cc0000&center=true&vCenter=true&width=560&lines=Cybersecurity+Projects+in+Python+%F0%9F%94%90;React.js+Developer+%F0%9F%92%BB;CS+Student+%40+ECU+%F0%9F%8E%93;Always+building+something+new+%F0%9F%9A%80;Open+to+Internship+Opportunities" alt="typing" />
+<!-- TYPING ANIMATION -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1000&color=ff6b2b&center=true&vCenter=true&width=580&height=45&lines=Cybersecurity+Projects+in+Python+%F0%9F%94%90;Frontend+Developer+Intern+%40+BEDO+%F0%9F%92%BC;CS+Student+%40+Egyptian+Chinese+University+%F0%9F%8E%93;Building+real+things%2C+not+just+tutorials+%F0%9F%9A%80;Open+to+internship+opportunities+%F0%9F%91%8B" alt="typing" />
+</p>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=G1H6-bit&color=cc0000&style=flat-square&label=Profile+Views)
-
-</div>
-
----
-
-## 🧑‍💻 Who Am I
-
-> *"I started with curiosity about how websites work — now I build them and break them (safely)."*
-
-- 🎓 CS student at **Egyptian Chinese University** — Class of 2028
-- 💼 Frontend Intern at **BEDO Company** — built real React.js UIs
-- 🔐 Cybersecurity projects: Password Checker · Caesar Cipher · Solo Security Lab
-- 🚀 Full-stack training via **DEPI** — expanding into backend
-- 📍 Cairo, Egypt
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=G1H6-bit&color=7c1aed&style=flat-square&label=Profile+Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/G1H6-bit?label=Followers&style=flat-square&color=ff6b2b" />
+</p>
 
 ---
 
-## 🛠 Tech I Use
+## 🧑‍💻 About Me
 
-<div align="center">
+```python
+class AbdelrahmanAshraf:
 
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JS](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
-[![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev)
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+    name       = "Abdelrahman Ashraf"
+    location   = "Cairo, Egypt 🇪🇬"
+    university = "Egyptian Chinese University — CS 2028"
+    internship = "Frontend Developer @ BEDO Company"
+    interests  = ["Cybersecurity", "React.js", "Python", "Web Dev"]
+    currently  = "Expanding into full-stack via DEPI"
+    looking_for = "Internship opportunities 👋"
+```
 
-</div>
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,python,git,github,mysql,vscode&perline=5" />
+</p>
 
 ---
 
@@ -49,9 +45,10 @@
 <td width="50%">
 
 ### 🛡️ AuthGuard Dashboard
-Role-based access control — 4 roles, 6 protected pages, live permissions matrix
+> Role-based access control — 4 roles, 6 protected pages
 
-**React.js · Vite · RBAC**
+![React](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 [View Code →](https://github.com/G1H6-bit/auth-dashboard)
 
@@ -59,9 +56,10 @@ Role-based access control — 4 roles, 6 protected pages, live permissions matri
 <td width="50%">
 
 ### 🧮 Grade Calculator
-GPA tracker with animated donut ring, semester filter, and academic standing
+> GPA tracker with animated donut ring and academic standing
 
-**React.js · Vite**
+![React](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vercel](https://img.shields.io/badge/Live-000000?style=flat&logo=vercel&logoColor=white)
 
 [Live Demo →](https://grade-calculator-react-ztpx.vercel.app)
 
@@ -71,9 +69,10 @@ GPA tracker with animated donut ring, semester filter, and academic standing
 <td width="50%">
 
 ### 🔐 Password Checker
-Python GUI tool that checks password strength using real security rules
+> Python GUI — checks strength using real security rules
 
-**Python · Tkinter · Cybersecurity**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-orange?style=flat)
 
 [View Code →](https://github.com/G1H6-bit/password-checker)
 
@@ -81,9 +80,10 @@ Python GUI tool that checks password strength using real security rules
 <td width="50%">
 
 ### 🔒 Caesar Cipher
-Encrypt and decrypt text using classical cryptography with a custom shift key
+> Classical cryptography — encrypt and decrypt with a shift key
 
-**Python · Tkinter · Cryptography**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Crypto](https://img.shields.io/badge/Cryptography-red?style=flat)
 
 [View Code →](https://github.com/G1H6-bit/caesar-cipher)
 
@@ -93,9 +93,10 @@ Encrypt and decrypt text using classical cryptography with a custom shift key
 <td width="50%">
 
 ### ⚡ Solo Security Lab
-Self-contained attack simulator — see real server logs without any risk
+> Self-contained attack simulator — see real server logs safely
 
-**Python · Tkinter · Network Security**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Network](https://img.shields.io/badge/Network%20Security-darkred?style=flat)
 
 [View Code →](https://github.com/G1H6-bit/solo-security-lab)
 
@@ -103,9 +104,10 @@ Self-contained attack simulator — see real server logs without any risk
 <td width="50%">
 
 ### ❌⭕ XO Game
-Tic Tac Toe with win animations, score tracking, and dark/light mode
+> Tic Tac Toe with win animations, score tracking, dark mode
 
-**HTML · CSS · JavaScript**
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 [Play Now →](https://g1h6-bit.github.io/XO-Game/XO.html)
 
@@ -117,21 +119,45 @@ Tic Tac Toe with win animations, score tracking, and dark/light mode
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
+<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=G1H6-bit&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=4" width="100%" />
+</p>
 
-<br/><br/>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=G1H6-bit&bg_color=0d0221&color=ff6b2b&line=7c1aed&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=G1H6-bit&bg_color=0d1117&color=ff6b2b&line=7c1aed&point=ffffff&area=true&hide_border=true" width="100%" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1H6-bit&layout=donut&theme=radical&hide_border=true&bg_color=0d0221&title_color=ff6b2b&text_color=ffffff" height="200" />
+</p>
+
+---
+
+## 🐍 My Contributions
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/G1H6-bit/G1H6-bit/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+## 📫 Find Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/abdelrahman-ashraf-39169035a/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:abdelrahmanashraf.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://grade-calculator-react-ztpx.vercel.app">
+<img src="https://img.shields.io/badge/Live%20Project-ff6b2b?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</p>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1H6-bit&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b2b&text_color=ffffff" height="200" />
-
-</div>
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:cc0000,50:660000,100:0d0000&height=120&section=footer&animation=fadeIn" width="100%" />
-</div>
+<!-- STAR BACKGROUND FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b2b,40:7c1aed,70:3d0066,100:0d0221&height=140&section=footer&animation=twinkling" width="100%" />
